@@ -4,8 +4,24 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+# Nikolaos Toumpanakis
+I am an undergraduate student with a vast area of interests, especially in technology, philosophy/mathematics, international relations, and economics and finance.
 
+### Blog Focus
+This Blog will mostly focus on the following (vast) fields: Artificial Intelligence, Deep/Machine Learning, Data Science, Human Enhancement Technologies (among a few others).
 
+### Goal
+I created this blog (using https://github.com/fastai/fastpages) to share my technological findings and interests with the world.
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+### My plans
+I plan on delving deeply into AI and Deep Learning, as I am fascinated by its seemingly infinite possible applications, as well as its future prospects.
+
+### Blog Content
+Expect to read about my experiments, my ideas, and my projects, as I progress through the https://course.fast.ai/. 
+
+### About me
+As I am still but an ambitious student, you will encounter mistakes, both in my sometimes unorthodox methodologies, and even in my code. Slight inefficiencies will be ubiquitous, especially for the first few months. My personal aspiration, though, is that through thorough study and by maintaining a relentless and tenacious attitude, I will be able to improve myself and my capabilities beyond what I now consider possible.
+
+### Contact
+Business Email: toump.nick@gmail.com
+Feel free to reach out for a comment or question; I am always looking for interesting people to engage in discourse with. 
