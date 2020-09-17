@@ -36,24 +36,13 @@ url: "https://ntoump.github.io" # the base hostname & protocol for your site, e.
 #
 baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 
-# # Github and twitter are optional:
-# minima:
-#   social_links:
-#     twitter: 
-#     github: ntoump
-#     email: toump.nick@gmail.com
-#     youtube: channel/UCFgF1lHh0fRQxY9CqpyBZgw
-
-# social_links:
-#   twitter: 
-#   github: ntoump
-#   email: toump.nick@gmail.com
-#   youtube: channel/UCFgF1lHh0fRQxY9CqpyBZgw
-
-twitter: 
-github: ntoump
-email: toump.nick@gmail.com
-youtube: channel/UCFgF1lHh0fRQxY9CqpyBZgw
+# Github and twitter are optional:
+minima:
+  social_links:
+    twitter: 
+    github: ntoump
+    email: toump.nick@gmail.com
+    youtube: channel/UCFgF1lHh0fRQxY9CqpyBZgw
 
 # Set this to true to get LaTeX math equation support
 use_math: 
