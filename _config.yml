@@ -44,11 +44,16 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 #     email: toump.nick@gmail.com
 #     youtube: channel/UCFgF1lHh0fRQxY9CqpyBZgw
 
-social_links:
-  twitter: 
-  github: ntoump
-  email: toump.nick@gmail.com
-  youtube: channel/UCFgF1lHh0fRQxY9CqpyBZgw
+# social_links:
+#   twitter: 
+#   github: ntoump
+#   email: toump.nick@gmail.com
+#   youtube: channel/UCFgF1lHh0fRQxY9CqpyBZgw
+
+twitter: 
+github: ntoump
+email: toump.nick@gmail.com
+youtube: channel/UCFgF1lHh0fRQxY9CqpyBZgw
 
 # Set this to true to get LaTeX math equation support
 use_math: 
