@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-permalink: /info/
+title:  
+permalink: /about/
 ---
 
 ### Nikolaos Toumpanakis
