@@ -11,7 +11,7 @@ I am an undergraduate student with a vast area of interests, especially in techn
 This Blog will mostly focus on the following (vast) fields: Artificial Intelligence, Machine/Deep Learning, Data Science.
 
 # Subscription
-You can subscribe to receive an email notification every time a post is made <a href="https://mailchi.mp/625255f1e111/subscribe">here.</a>
+You can subscribe to receive an email notification every time a post is made <a href="https://mailchi.mp/a284bea6addb/subscribe">here.</a>
 
 #### Goal
 I created this blog (using <a href="https://github.com/fastai/fastpages">fastpages</a>) to share my technological findings and interests with the world.
