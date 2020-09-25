@@ -6,24 +6,24 @@
 
 https://ntoump.github.io/blog/
 
-# My Blog
+# Deeply Learned
+
+## Applications
+
+Click <a href="https://protected-mountain-28715.herokuapp.com/">here</a> to experiment with the freely available newer version of the __Mask Classifier v3__ application!
+
+## Blogposts
+
+Click <a href="https://ntoump.github.io/blog/deep%20learning/jupyter/cnn/intended%20noise/2020/09/17/masksv3_PART_1.html">here</a> to see the most recent blogpost!
+
+## About Me
+
+Click <a href="https://ntoump.github.io/blog/about/">here</a> to learn more about me!
+
+## Subscribe to Blog
+
+Click <a href="https://mailchi.mp/a284bea6addb/subscribe">here</a> to subscribe to my blog, so that you get an email notification everytime a new post is made!
 
 
-_powered by [fastpages](https://github.com/fastai/fastpages)_
 
 
-## What To Do Next?
-
-Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
-
-- [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
-
-- [Writing Blogs With Markdown](https://github.com/fastai/fastpages#writing-blog-posts-with-markdown)
-
-- [Writing Blog Posts With Word](https://github.com/fastai/fastpages#writing-blog-posts-with-microsoft-word)
-
-- [(Optional) Preview Your Blog Locally](_fastpages_docs/DEVELOPMENT.md)
-
-Note: you may want to remove example blog posts from the `_posts`,  `_notebooks` or `_word` folders (but leave them empty, don't delete these folders) if you don't want these blog posts to appear on your site.
-
-Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
