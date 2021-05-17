@@ -14,7 +14,7 @@ Click <a href="https://protected-mountain-28715.herokuapp.com/">here</a> to expe
 
 ## Blogposts
 
-Click <a href="https://ntoump.github.io/blog/deep%20learning/jupyter/cnn/intended%20noise/2020/09/17/masksv3_PART_1.html">here</a> to see the most recent blogpost!
+Click <a href="https://ntoump.github.io/blog/deep%20learning/jupyter/tabular%20data/neural%20networks/titanic/2020/10/22/Titanic_PART_4.html">here</a> to see the most recent blogpost!
 
 ## About Me
 
